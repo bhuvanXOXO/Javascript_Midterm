@@ -2,6 +2,7 @@
  API project for mid-term Javascript Spring'22
  
 This project– a visual sketch using p5.js– uses The New York Times API and the Air Quality Index API to provide real-time info on the air-quality on 5 cities in the United States:
+
 Boston, Massachusetts
 NYC, New York
 Los Angeles, California
